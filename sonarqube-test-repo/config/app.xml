@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<application>
-    <name>SonarQube Test Repository</name>
-    <environment>development</environment>
-    <features>
-        <feature name="showWelcome">true</feature>
-        <feature name="showDemo">true</feature>
-    </features>
-</application>
