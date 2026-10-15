@@ -1,0 +1,12 @@
+{
+  "application": "SonarQube Test Repository",
+  "environment": "development",
+  "featureFlags": {
+    "showWelcome": true,
+    "showDemo": true
+  },
+  "limits": {
+    "maximumItems": 100,
+    "warningThreshold": 80
+  }
+}
